@@ -71,7 +71,7 @@ group :test do
   gem 'minitest-reporters', '1.1.9'
   # Guard keeps an eye on your file modifications
   gem 'guard', '2.13.0'
-  @=# Guard plugin for the Minitest framework
+  # Guard plugin for the Minitest framework
   gem 'guard-minitest', '2.4.4'
 end
 
