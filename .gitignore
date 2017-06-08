@@ -19,3 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Optional Chapter 3.6.2 (Listing 3.46)
+# Ignore Spring files.
+/spring/*.pid
