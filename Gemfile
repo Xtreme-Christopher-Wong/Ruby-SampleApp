@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.0.1'
+gem 'rails', '5.0.3'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '3.1.11'
 # Easily generate fake data
@@ -23,7 +23,7 @@ gem 'will_paginate', '3.1.0'
 # Format will_paginate html to match Twitter Bootstrap styling.
 gem 'bootstrap-will_paginate', '0.0.10'
 # bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.
-gem 'bootstrap-sass', '3.3.6'
+gem 'bootstrap-sass', '3.3.7'
 # Use Puma as the app server
 gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
