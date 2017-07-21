@@ -1,0 +1,17 @@
+# # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   name: MyString
+#   email: MyString
+
+# two:
+#   name: MyString
+#   email: MyString
+
+
+# empty
+
+#== At this point, the test suite should be red due to a violation of the uniqueness constraint in the fixtures, which contain sample data for the test database.
+#== User fixtures were generated automatically in Listing 6.1, and as shown in Listing 6.30 the email addresses are not unique.
+#== (They’re not valid either, but fixture data doesn’t get run through the validations.)
+#== Because we won’t need fixtures until Chapter 8, for now we’ll just remove them, leaving an empty fixtures file 
